@@ -15,6 +15,11 @@
     font-size: 16px;
     color: #000;
 }
+.name:hover {
+    border: 1px solid;
+    border-color: inherit;
+    box-shadow: 0px 5px 6px;
+}
 .lord-goring {
     color: #F037A5 ;
 }
@@ -26,4 +31,35 @@
 }
 .mabel-chiltern {
     color: #346751;
+}
+
+table,
+        th,
+        td {
+            border: 1px solid black;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+        td {
+            color: #2D46B9;
+
+        }
+        table {
+            border-collapse: collapse;
+            margin: 2rem auto;
+        }
+        tr:nth-child(even) {
+            background-color: #eaeaeaa1;
+        }
+        tr td:last-child {
+            color: darkgreen;
+        }
+.link {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
+h5 {
+    display: inline-block;
+    margin: 0;
 }
