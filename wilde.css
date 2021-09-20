@@ -1,0 +1,29 @@
+.speech {
+    font-size: 15px;
+    color: #000;
+}
+.stage-direction {
+    font-size: 13px;
+    color: #000;
+    background-color: #F8E2CF;
+}
+.stage-direction:hover {
+    color: #fff;
+    background-color: #2D46B9;
+}
+.name {
+    font-size: 16px;
+    color: #000;
+}
+.lord-goring {
+    color: #F037A5 ;
+}
+.james {
+    color: #125D98;
+}
+.lord-caversham {
+    color: #99154E;
+}
+.mabel-chiltern {
+    color: #346751;
+}
